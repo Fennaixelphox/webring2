@@ -7,10 +7,9 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'https://example.com/',
-'https://example.com/',
-'https://example.com/',
-'https://example.com/'
+'https://fennaixelphox.neocities.org/otherpages',
+'https://www.bingoned.art/',
+'https://rydiante.com/'
 ];
 
 //the name of the ring
